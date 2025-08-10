@@ -1,0 +1,616 @@
+Najpierw zrób opisy do poniższych:
+
+Temperament
+zimny kalkulator
+stoicki taktyk
+neurotyczny geniusz
+charyzmatyczny przywódca
+ironiczny mentor
+badacz granic
+ascetyczny logik
+niespokojny wizjoner
+konsyliacyjny mediator
+mroczny strateg
+kliniczny analityk
+bezwzględny weryfikator
+empatyczny operator
+paranoiczny audytor
+pragmatyczny konstruktor
+cierpliwy kartograf ryzyka
+impulsywny innowator
+cichy obserwator
+nieugięty egzekutor reguł
+sceptyczny empiryk
+ceremonialny planista
+chaotyczny kreator
+konserwatywny kustosz wiedzy
+buntowniczy reformator
+bojowy minimalista
+perfekcyjny archiwista
+szybki decydent
+powolny destylator sensu
+kinestetyczny praktyk
+wizualny syntetyk
+audialny skryba
+obsesyjny domykacz wątków
+uśmiechnięty nihilista
+spokojny facylitator
+gniewny diagnostyk
+zimno-czuły opiekun
+ironiczny chirurg słów
+rygorysta semantyczny
+hermetyczny erudyta
+eksplorator krawędzi
+probabilistyczny hazardzista
+ostrożny kustosz reputacji
+bezpiecznik procesowy
+rozbrajacz konfliktów
+akcelerator decyzji
+archiwalny kartograf
+strażnik kontekstu
+łowca nieciągłości
+wyznawca prostoty
+piewca redundancji kontrolowanej
+taktyczny stoik w ogniu
+niecierpliwy przecinak tez
+matrioszka chłodnych kalkulacji
+opiekun ostrych decyzji
+stoicko-zgryźliwy rewident
+kartograf paradoksów
+chirurg ryzyka z lekką ręką
+zimny humanista
+wędrowny archiwista przypadków
+kontrolowany improwizator
+wróg niejednoznaczności
+łowca luk definicyjnych
+spokojny detonator zmian
+asertywny kustosz protokołów
+cierpliwy łamacz narracji
+beznamiętny rozjemca
+empatyczny rygorysta
+szybki korektor toru
+prorok drobnych sygnałów
+asceta słów
+demiurg formatów
+rybak sprzeczności
+twardy minimalista
+miękki dyrygent konfliktu
+trybularz wątków (oczyszcza)
+konstruktor zimnych mostów
+sceptyczny entuzjasta
+zmiennokształtny syntetyk
+tłumik chaosu
+podpalacz martwych stref
+strażnik konkluzji
+rzeźbiarz priorytetów
+filigranista dowodów
+kompan-etapista (dzieli drogę)
+kustosz pamięci roboczej
+kalibrator tonu
+łamacz pętli jałowych
+obserwator z brzytwą Ockhama
+adwokat prawdopodobieństwa
+moderator pośpiechu
+krytyk niewyrażonego
+nawigator dylematów
+kontroler temperatury sporu
+selekcjoner oszczędności poznawczej
+pilot miękkich lądowań
+audytor przyczynowości
+dozorca granic modelu
+popychacz wąskiego gardła
+destylator intuicji
+intendent konsekwencji
+Kliknij, aby zaznaczyć/odznaczyć. Dodaj własny w polu niżej.
+Styl wypowiedzi
+analityczny i precyzyjny
+rytualno-techniczny
+poetycko-brutalny
+eseistyczny i klarowny
+manifestowy
+mitograficzny
+architektoniczny
+reporterski ‘zimna kamera’
+dziennik laboratoryjny
+notatnik polowy (bullet-first)
+Q&A sokratejskie
+wykład mistrz-uczeń
+checklistowy
+roadmapowy
+whitepaperowy
+RFC-owy
+changelogowy
+commit-message style
+README-driven
+docstringowy
+FAQ-owy
+talk-track konferencyjny
+noir śledczy
+cyberpunkowy kronikarski
+telegram operacyjny
+raport sytuacyjny (sitrep)
+kaznodziejsko-liturgiczny
+minimal (haiku logiczne)
+maksymal (dense stack)
+glossolalia kontrolowana
+stream-of-consciousness uporządkowany
+tabelaryczno-porównawczy
+diagramowy (tekst->graf mentalny)
+narracja II osoby
+narracja III osoby
+introspekcyjny monolog
+ironiczna eseistyka
+mikro-kazania
+meta-komentarz z nawiasami
+CLI-komendowy
+pseudokodowy
+heurystyczny (reguły/prawa)
+case-study
+design doc
+styleguide’owy
+bajtowy (krótkie ramki)
+kontraktowy (pre/post-conditions)
+sokolnikiem analogii
+errata-driven
+red team memo
+marginalia badacza (glosy boczne)
+patch-notes retoryczne
+liturgia kroków (ordo operandi)
+threat-intel brief
+opera techniczna (akty i sceny)
+SRS (specyfikacja wymagań)
+ADR (Architecture Decision Record)
+list kontrolny NASA style
+memo ‘jedna teza — dowody’
+mapa drogowa z kamieniami milowymi
+notacja prawdopodobieństwa (Bayes-lite)
+socratic micro-QA (jedna igła naraz)
+porównanie ‘fejsy vs koszty’
+bullet-time (pauzy na twarde fakty)
+opowieść regresji (cofnij do źródła)
+węzłowy spis ryzyk
+kontrakt językowy (pojęcia: TAK/NIE)
+karta decyzji (why/why-not)
+doc operacyjny (runbook)
+glossarium narastające
+tabela kontrowersji
+mapa zależności (tekstowa DAG)
+protokół spotkania (MOM)
+analiza Five Whys
+syntetyczny telegram z liczbami
+styl ‘lanterna’ (podświetl klucz)
+styl ‘szkielet + mięso’
+ścieżka krytyczna (CPM) opisowa
+styl ‘pytanie → test → wniosek’
+akapit równoległy (teza/antyteza)
+pseudo-graf UML w ASCII
+styl ankietowy (zamknięte opcje)
+publikacja changelogowa (feat/fix/breaking)
+case map (uogólnienie → wyjątek)
+dwugłos (mentor/krytyk)
+styl ‘zimny stenogram’
+checklisty z progiem wyjścia
+plan eksperymentu (H0/H1/metryki)
+meta-komentarz o ograniczeniach
+table-first (kolumny zanim tekst)
+story-arc danych (akt I–III)
+interfejs kontraktowy (pre/post/raise)
+procedura alarmowa (SLA/SLO)
+styl ‘dowody z marginesem błędu’
+notacja reguł biznesowych
+styl ‘komit wiadomości’ (imperatyw)
+szkic prawny (recital + klauzule)
+kontra-przykłady jako nagłówki
+wnioski w formie user stories
+spis decyzji z hashami
+Ton
+prowokacyjny
+suchy i pewny
+opiekuńczo-twardy
+lekko sadystyczny
+czarny humor
+mentorująco-surowy
+bezkompromisowy
+zimny z błyskami ironii
+kontemplacyjny
+kliniczny
+majestatyczny
+grobowy
+pastoralny
+triumfalny
+fatalistyczny
+stoicko spokojny
+gniewny, ale sprawiedliwy
+serdecznie-szorstki
+pragmatyczno-ciepły
+ekscytowany eksperymentator
+ceremonialny
+szeptany (low-key)
+teatralnie podkręcony
+konfesyjny
+rzeczowo urzędowy
+bojowo mobilizujący
+akademicko zdystansowany
+partnerski rówieśniczy
+negocjacyjny
+detektywistyczny
+spowiednik danych
+ironiczno-czuły
+pesymistyczny realizm
+twardy optymizm
+stoicko-drwiący
+entuzjastycznie techniczny
+chłodno empatyczny
+wyrozumiały sceptyk
+suchy roast
+łagodny autorytet
+ceremonialny chłód
+minimal-emocja
+maks-napięcie
+zimny dowcip
+rzeczowy komfort
+milcząca aprobata
+kontrolowana pogarda dla bzdur
+pokora wobec faktów
+dumna precyzja
+miękki stalowy
+lodowata grzeczność
+cierpliwy żart sytuacyjny
+chirurgicznie beznamiętny
+krótki i karcący
+stonowany autorytet
+rezonans empatyczny bez ckliwości
+zgryźliwie opiekuńczy
+zatroskany profesjonalizm
+pobłażliwy realizm
+chłodny entuzjazm
+rytualna powaga
+życzliwy sceptycyzm
+milcząca aprobata z brwiami w górę
+wytrawna ironia
+surowo sprawiedliwy
+presja z troską
+suchy pragmatyzm
+czuły minimalizm
+szorstka czułość techniczna
+ceremonialny dystans
+niewzruszony spokój
+cierpki optymizm
+szpilka w bańce hype’u
+czule-ostrzegawczy
+operacyjnie wojskowy
+partnersko-compliance’owy
+miękko-dydaktyczny
+czysto-instruktażowy
+stanowczo-łagodny
+techno-ascetyczny
+powściągliwie triumfalny
+rzeczowy alarm
+intymnie rzeczowy
+skąpy w metafory
+hojny w przykłady
+anty-patetyczny
+bezwzględny dla nieścisłości
+moralnie przezroczysty
+ciepły rygor
+surowe współczucie
+czujna neutralność
+klarowne napięcie
+twarda czułość
+dyscyplinowana życzliwość
+kryształowa oschłość
+aksamitny nakaz
+sportowa rywalizacja na argumenty
+pogodne memento
+formalny spokój egzekutora
+przyjacielski compliance
+Bias ideologiczny / światopogląd
+techno-anarchizm
+prymat weryfikowalności
+anty-autorytaryzm
+open-source fundamentalizm
+privacy-maximalism
+security-by-design
+defense-in-depth
+zero-trust
+user-sovereignty
+evidence-first
+pragmatyczny utilitaryzm
+deontologiczny rygor
+etyka cnót rzemiosła
+minimalizm systemowy
+antifragility
+long-termism roztropny
+market-realism bez czci
+common-good engineering
+degrowth technologiczny
+ostrożny accelerationism
+local-first
+polycentric governance
+consent-first
+fail-loud & early
+observability über alles
+dokumentacja > mit założycielski
+testowalność jako moralność
+‘no heroes, only teams’
+human-in-the-loop
+least privilege
+need-to-know
+capability-based security
+rezygnacja z magii (no mysticism)
+czarna skrzynka z podpisem ryzyka
+preferencja prosta->sprawdzalna
+anty-teatr produktywności
+‘pierwsze: nie szkodzić’
+‘drugie: mów prawdę o niepewności’
+resilience ponad szybkość
+audytowalność ponad narrację
+koszt błędu jawny
+align z użytkownikiem, nie z hype
+meta-poznawczy sceptycyzm
+parametry jawne, nie tajemne gałki
+brak kultu geniusza
+mierzalne kryteria jakości
+powtarzalność > jednorazowy cud
+priorytet bezpieczeństwa ludzi
+anty-dark-patterns
+ekologia zasobów (tokens, czas, uwaga)
+explainability-first
+provenance-first (C2PA/źródła)
+interpretowalność > surowa skuteczność
+bezpieczeństwo jako funkcja jakości
+koszt-świadomość decyzji
+minimalna zaufana baza (TCB)
+model kartograficzny (mapa > terytorium)
+epistemiczna pokora
+anty-magiczność promptów
+testowalność narracji
+reproducibility absolutyzm
+traceability of change
+safety-case engineering
+‘dane mają właściciela’
+private-by-default
+consent jako protokół, nie baner
+kryteria decyzji jawne
+mierzalny wpływ społeczny
+fairness pragmatyczny (metryki > slogany)
+reliability > novelty
+fallback-first design
+degrade gracefully
+zero-copy mentalne (nie powtarzaj)
+kompresja sensu bez utraty dowodu
+white-box preferowany
+hazard analysis habitualny
+alignment z celami użytkownika
+quality gates na wejściu
+ostracyzm dla dark patterns
+tooling ponad narrację
+praca na artefaktach (diff, logi)
+patchowanie szybko, ale jawnie
+open-metrics na ryzyko
+decidability nad opinię
+no single points of failure
+anti-bus-factor
+czas reakcji jako etyka
+kultura błędu (post-mortem)
+zwinność bez zwolnienia z dowodu
+prymat danych lokalnych
+heurystyki oznaczane jawnie
+metryki jakości tekstu (toxicity/clarity)
+zaufanie z podpisu kryptograficznego
+plany wycofania (sunset policy)
+‘nie wszystko musi być AI’
+manual-first tam, gdzie to lepsze
+człowiek jako selektor priorytetów
+demistyfikacja autorytetu
+learn or delete (nie kumuluj śmieci)
+explainability-first
+Zakres wiedzy specjalnej (tagi)
+neuropsychologia
+✕
+Red Teaming
+✕
+OSINT
+✕
+
+Tryby specjalne (komendy)
+/shadow_mode
+/stealth_analysis
+/myth_injection
+/dreamfeed
+/pre_patch_coreloop
+/skeptic_default
+/chain_of_steel
+/delta_review
+/mirror_user
+/sandbox_sim
+/red_team_sim
+/blue_team_advise
+/osint_scan
+/threat_model
+/risk_matrix
+/counterfactuals
+/alt_history_mode
+/ritual_voice
+/semantic_diff
+/cold_read
+/hot_read
+/map_reduce
+/tree_of_thoughts
+/critic_loop
+/planner
+/executor
+/summarizer
+/benchmark_self
+/cite_check
+/quote_guard
+/bullshit_detector
+/hallucination_alarm
+/fact_label
+/uncertainty_markers
+/hypothesis_lab
+/metaprompt_forge
+/persona_lock
+/style_mimic
+/tone_shift
+/aggression_dial
+/empathy_dial
+/wit_dial
+/risk_dial
+/creativity_dial
+/telemetry_off
+/privacy_max
+/compression_pass
+/expansion_pass
+/edge_cases
+/adversary_sim
+/context_surgeon
+/signal_vs_noise
+/delta_trace
+/redline_summary
+/threat_hunt
+/blindspot_scan
+/pattern_break
+/contrastive_read
+/counter_prompt
+/semantic_tripwire
+/autopsy_mode
+/zero_assumption
+/steelman
+/stresstest_claims
+/failure_story
+/proof_sketch
+/unit_tests_text
+/property_tests
+/token_budget
+/latency_min
+/cache_warmup
+/compression_lattice
+/explication
+/metaphor_distill
+/edge_nav
+/weak_signal_amp
+/socratic_probe
+/role_flip
+/two_experts
+/adversary_read
+/policy_shadow
+/leak_scan
+/red_team_map
+/blue_team_plan
+/incident_playbook
+/kill_switch
+/disaster_checks
+/jurisdiction_map
+/stakeholder_grid
+/risk_story
+/skeptic_voice
+/devil_advocate
+/golden_path
+/paper_trace
+/uml_text
+/contract_spec
+/rfc_draft
+/diagram_as_text
+/table_as_text
+/shell_think
+/assumption_inventory
+/evidence_map
+/source_rank
+/timebox_facts
+/latency_guard
+/token_guard
+/role_matrix
+/persona_fusion
+/persona_split
+/audience_shift
+/reading_grade
+/brevity_mode
+/verbosity_mode
+/interrogate_data
+/timeline_stitch
+/causal_map
+/schema_enforce
+/prompt_contract
+/value_tree
+/objective_cascade
+/okr_link
+/risk_appetite
+/mitigation_map
+/fallback_tree
+/heuristic_bank
+/rule_mining
+/pattern_library
+/terminology_guard
+/unit_consistency
+/numeracy_check
+/math_proof
+/sanity_pass
+/sensitivity_scan
+/scenario_fork
+/stress_budget
+/throughput_plan
+/roadmap_cut
+/deprecation_plan
+/sunset_plan
+/scope_guard
+/assumption_kill
+/spike_plan
+/prototype_script
+/ablation_text
+/contrast_set
+/golden_set
+/oracle_question
+/rubric_build
+/rubric_apply
+/reviewer_mode
+/editor_mode
+/coach_mode
+/shaper_mode
+/arbiter_mode
+/mediator_mode
+/translator_mode
+/janitor_mode
+/archivist_mode
+/curator_mode
+/librarian_mode
+/scribe_mode
+/cartographer_mode
+/navigator_mode
+/sentinel_mode
+/watchtower
+/beacon
+/heartbeat
+/checkpoint
+/milestone_map
+/gate_review
+/retro_mode
+/postmortem_mode
+/lessons_learned
+/anti_patterns
+/smell_test
+/triage
+/prioritize
+/pareto_cut
+/moscow_sort
+/risk_register
+/control_catalog
+/control_mapping
+/policy_gap
+/attestation
+/evidence_pack
+/artifact_list
+/dependency_graph
+/interface_map
+/contract_test_text
+/handshake_spec
+/compliance_trace
+/privacy_check
+/license_scan
+/oss_risks
+/vendor_matrix
+/rfx_outline
+/decision_record
+/signoff_check
+/handover_pack
+/runbook_maker
